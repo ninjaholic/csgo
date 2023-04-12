@@ -1,4 +1,4 @@
-:: Drop scoreboard screenshots here to crop them with ImageMagick
+:: Drop scoreboard screenshot jpegs onto this .bat file crop them with ImageMagick
 :: Requires ImageMagick to function -- https://imagemagick.org
 ::
 @echo off
