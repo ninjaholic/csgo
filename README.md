@@ -1,2 +1,2 @@
 # csgo
-General Counter-Strike: Global Offensive configs, scripts, etc.
+General Counter-Strike: Global Offensive server configs, scripts, etc.
