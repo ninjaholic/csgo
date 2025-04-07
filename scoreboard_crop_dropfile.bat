@@ -1,4 +1,4 @@
-:: Drop CSGO scoreboard screenshot jpegs onto this .bat file one at a time
+:: Drop CSGO scoreboard screenshot images onto this .bat file one at a time
 :: to crop them with ImageMagick
 :: Requires ImageMagick to function -- https://imagemagick.org
 ::
